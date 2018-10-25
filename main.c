@@ -7,6 +7,6 @@ return a+b;
 
 int main()
 {
-    printf("%d",addition(1,4));
+    printf("a + b = %d",addition(1,4));
     return 0;
 }
